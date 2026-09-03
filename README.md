@@ -4,19 +4,16 @@ Kateryna_Ish@outlook.com
 
 
 Summary
-
 Graduating student specialising in system design 
 economies / mechanics / visuals -  fast prototyping 
 and playtest iteration using website coding as my working method
 
 Skills
-
 Workflow • Level design, combat system, interaction system, economy systems 
 • UI/UX design • Prototyping • Dialogue and storywriting • Unity 
 • ClipStudioPaint , Photoshop, InDesign, Word, Excel, Github, Canva, Miro
 
 Work Experience 
-
 Gluttony Monster- team Leader				
 February 2025 – May 2025
 
@@ -27,7 +24,6 @@ February 2025 – May 2025
    inventory and drain of resource
 
 Personal Experience
-
 Outskinn The Skin-walker 		
 May 2026 - present		
 		
@@ -41,7 +37,6 @@ May 2026 - present
    adding variation), skin (decorating the function) 
 
 Level Analysing 	
-
 Feb 2025 - present
 • Self-practice for analyzing different games
 • Terraria - map generation and progression 
@@ -51,7 +46,6 @@ Feb 2025 - present
 • Genshin - gacha / gambling system
 
 Education
-
 NABA - Nuova Accademia di Belle Arti			
 • Graduation expectancy – November 2026
 • Course : New Technologies
