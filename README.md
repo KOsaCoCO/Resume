@@ -20,7 +20,8 @@ Workflow • Level design, combat system, interaction system, economy systems
 --------
 Work Experience 
 --------
-Gluttony Monster- team Leader				
+Gluttony Monster- team Leader	
+--------
 February 2025 – May 2025
 
 • Overlooked student team of 5
@@ -32,7 +33,8 @@ February 2025 – May 2025
 --------
 Personal Experience
 --------
-Outskinn The Skin-walker 		
+Outskinn The Skin-walker 	
+--------
 May 2026 - present		
 		
 • Utilise webcoding to prototype minigames 
@@ -48,6 +50,7 @@ May 2026 - present
 Level Analysing 	
 --------
 Feb 2025 - present
+--------
 • Self-practice for analyzing different games
 • Terraria - map generation and progression 
 • Animal Crossing - trade mechanic 
