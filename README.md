@@ -4,7 +4,6 @@ Kateryna_Ish@outlook.com
 
 
 Summary
-
 Graduating student specialising in system design 
 economies / mechanics / visuals -  fast prototyping 
 and playtest iteration using website coding as my working method
