@@ -2,22 +2,23 @@ Kateryna Ishchenko
 Milan, Lombrady • +39 (351) 732 3575 •
 Kateryna_Ish@outlook.com
 
-
+--------
 Summary
+--------
 Graduating student specialising in system design 
 economies / mechanics / visuals -  fast prototyping 
 and playtest iteration using website coding as my working method
 
-
+--------
 Skills
-
+--------
 Workflow • Level design, combat system, interaction system, economy systems 
 • UI/UX design • Prototyping • Dialogue and storywriting • Unity 
 • ClipStudioPaint , Photoshop, InDesign, Word, Excel, Github, Canva, Miro
 
-
+--------
 Work Experience 
-
+--------
 Gluttony Monster- team Leader				
 February 2025 – May 2025
 
@@ -27,9 +28,9 @@ February 2025 – May 2025
 • Economy System building - flow, exchange, convert, trade,
    inventory and drain of resource
 
-
+--------
 Personal Experience
-
+--------
 Outskinn The Skin-walker 		
 May 2026 - present		
 		
@@ -42,9 +43,9 @@ May 2026 - present
    bones (purely functional), meat (polishing the function and
    adding variation), skin (decorating the function) 
 
-
+--------
 Level Analysing 	
-
+--------
 Feb 2025 - present
 • Self-practice for analyzing different games
 • Terraria - map generation and progression 
