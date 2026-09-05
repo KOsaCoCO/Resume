@@ -1,6 +1,6 @@
 Kateryna Ishchenko
 --------
-Milan, Lombrady • +39 (351) 732 3575 •
+Milan, Italy • +39 (351) 732 3575 •
 Kateryna_Ish@outlook.com
 
 --------
@@ -33,12 +33,12 @@ February 2025 – May 2025
 --------
 Personal Experience
 --------
-Outskinn The Skin-walker 	
+Outskin The Skin-walker 	
 ------
 May 2026 - present		
 		
 • Utilise webcoding to prototype minigames 
-• Github as source control, paired Visual Studio and Claude Ai
+• Github as source control, paired Visual Studio and Claude AI
 • Designed dialogue using flowcharts for event system navigation
 • Economy diagrams for balacing game state
 • Microsoft Word for documentation 
